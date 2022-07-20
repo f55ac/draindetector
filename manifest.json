@@ -1,11 +1,6 @@
 {
-<<<<<<< HEAD
-  "short_name": "DrainDetector",
-  "name": "DrainDetector IoT Dashboard",
-=======
-  "short_name": "React App",
-  "name": "Create React App Sample",
->>>>>>> 5553a4e (Initialize project using Create React App)
+  "short_name": "Draintector",
+  "name": "Draintector IoT Dashboard",
   "icons": [
     {
       "src": "favicon.ico",
