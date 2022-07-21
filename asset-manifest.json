@@ -1,14 +1,14 @@
 {
   "files": {
     "main.css": "/draindetector/static/css/main.dab34de7.css",
-    "main.js": "/draindetector/static/js/main.a8184ca8.js",
+    "main.js": "/draindetector/static/js/main.b948cfb4.js",
     "service-worker.js": "/draindetector/service-worker.js",
     "index.html": "/draindetector/index.html",
     "main.dab34de7.css.map": "/draindetector/static/css/main.dab34de7.css.map",
-    "main.a8184ca8.js.map": "/draindetector/static/js/main.a8184ca8.js.map"
+    "main.b948cfb4.js.map": "/draindetector/static/js/main.b948cfb4.js.map"
   },
   "entrypoints": [
     "static/css/main.dab34de7.css",
-    "static/js/main.a8184ca8.js"
+    "static/js/main.b948cfb4.js"
   ]
 }
